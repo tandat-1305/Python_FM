@@ -17,7 +17,3 @@ print("Tích a và b: ")
 print(a.dot(b))
 print("Ma trận chuyển vị: ")
 print(np.transpose(c))
-#Pandas
-import pandas as pd
-
-
